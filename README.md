@@ -24,7 +24,7 @@ A Mastermind-style number guessing game developed using **UiPath Studio Web** an
 5. The process repeats until the player guesses correctly or uses all 10 attempts.
 
 ## Project Demo
-- [Watch the demo video](Mastermind App Demo.mp4)
+- [Watch the demo video](Mastermind-App-Demo.mp4)
 
 ## Tools used
 - UiPath Studio Web
